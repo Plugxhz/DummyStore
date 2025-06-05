@@ -83,4 +83,4 @@ src/
 ## 🧑‍🎓 Autor
 
 Trabalho desenvolvido como parte de avaliação acadêmica.  
-Feito por: **Enzo Bedendo Sakatauskas** – [@seuGithub](https://github.com/Plugxhz)
+Feito por: **Enzo Bedendo Sakatauskas** – [@Plugxhz](https://github.com/Plugxhz)
