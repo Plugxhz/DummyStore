@@ -15,7 +15,7 @@ Construir uma aplicação front-end interativa e bem estruturada, que consome um
 - **Detalhes do Produto**: Página individual com informações detalhadas de cada produto.
 - **Categorias**: Menu lateral/superior com filtros por categoria.
 - **Busca em Tempo Real**: Campo de busca com atualização instantânea conforme o usuário digita.
-- **Ordenação de Produtos** *(Desafio Extra)*:
+- **Ordenação de Produtos**
   - Por preço (crescente/decrescente)
   - Por nome (A-Z / Z-A)
 
