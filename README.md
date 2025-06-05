@@ -76,16 +76,7 @@ src/
 
 ## 📦 API Utilizada
 
-- [DummyJSON](https://dummyjson.com/products): Fornece dados de produtos, categorias e buscas.
-
----
-
-## 📸 Capturas de Tela *(opcional)*
-
-Você pode adicionar prints da interface aqui com:
-```markdown
-![Home](./screenshots/home.png)
-```
+- [DummyJSON](https://dummyjson.com/products): Fornece dados de produtos, categorias, buscas e mais.
 
 ---
 
