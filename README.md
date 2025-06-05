@@ -84,9 +84,3 @@ src/
 
 Trabalho desenvolvido como parte de avaliação acadêmica.  
 Feito por: **Enzo Bedendo Sakatauskas** – [@seuGithub](https://github.com/Plugxhz)
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
